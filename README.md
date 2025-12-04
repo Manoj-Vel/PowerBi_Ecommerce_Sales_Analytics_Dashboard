@@ -6,8 +6,8 @@
 # 📝 Project Description
 
 This repository contains a US-based Ecommerce Sales Dashboard built using Power BI.
-The project includes complete data analysis, DAX measures, and a fully interactive dashboard with advanced visualizations.
-The goal is to monitor business performance, track key KPIs, and provide actionable insights for strategic decision-making.
+The project includes complete data analysis, DAX measures and a fully interactive dashboard with advanced visualizations.
+The goal is to monitor business performance, track key KPIs and provide actionable insights for strategic decision-making.
 
 # ⭐ Key Features & KPIs
 📌 KPIs
