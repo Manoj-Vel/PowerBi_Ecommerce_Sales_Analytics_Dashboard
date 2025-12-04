@@ -40,8 +40,8 @@ However, YoY Sales decreased by 0.83%, an early warning sign—sales trends shou
 Segment Analysis:
 
 Consumer and Home Office segments show an increase in YoY profit margin.
-
 Corporate segment shows a decline of 2.31% in profit margin.
+
 👉 Focus: Improving performance in the Corporate segment.
 
 Regional Analysis:
