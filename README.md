@@ -1,1 +1,56 @@
-# PowerBi_Ecommerce_Sales_Analytics_Dashboard
+# Power BI Projects – Ecommerce Sales Dashboard
+
+
+🔗 Power BI App Link: [DashBoard_Link](https://app.powerbi.com/view?r=eyJrIjoiOTE3MDc2MTktMDUxZS00MDgxLTg0OWYtN2EyNmM4M2Y2ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+# 📝 Project Description
+
+This repository contains a US-based Ecommerce Sales Dashboard built using Power BI.
+The project includes complete data analysis, DAX measures, and a fully interactive dashboard with advanced visualizations.
+The goal is to monitor business performance, track key KPIs, and provide actionable insights for strategic decision-making.
+
+# ⭐ Key Features & KPIs
+📌 KPIs
+
+YTD Sales
+
+YTD Profit
+
+YTD Quantity
+
+YTD Profit Margin
+
+📌 Slicers
+
+Customer Segments
+
+📌 Visuals
+
+Top 5 & Bottom 5 Products
+
+Map Visual: Sales by Region
+
+Trend Analysis (YoY) in KPI
+
+# 📈 Business Insights
+
+YoY Profit increased by 4.5%, indicating operational improvements.
+However, YoY Sales decreased by 0.83%, an early warning sign—sales trends should be monitored to prevent future revenue decline.
+
+Segment Analysis:
+
+Consumer and Home Office segments show an increase in YoY profit margin.
+
+Corporate segment shows a decline of 2.31% in profit margin.
+👉 Focus: Improving performance in the Corporate segment.
+
+Regional Analysis:
+
+The West region leads with 32% of total sales.
+
+Opportunity identified to strengthen presence and sales in the South region.
+
+📂 Repository Contents
+
+Power BI project files
+Dashboard images & documentation
