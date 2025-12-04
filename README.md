@@ -3,7 +3,7 @@
 
 🔗 See the Full Dashboard here: [App PowerBi Link](https://app.powerbi.com/view?r=eyJrIjoiOTE3MDc2MTktMDUxZS00MDgxLTg0OWYtN2EyNmM4M2Y2ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-![Analytics Dashboard](<img width="1208" height="688" alt="Ecommerce_Sales_analytics_Dashboard" src="https://github.com/user-attachments/assets/bac6b490-3ad1-4998-8d1e-5f4f003d3284" />)
+[Analytics Dashboard](<img width="1208" height="688" alt="Ecommerce_Sales_analytics_Dashboard" src="https://github.com/user-attachments/assets/bac6b490-3ad1-4998-8d1e-5f4f003d3284" />)
 
 
 # 📝 Project Description
