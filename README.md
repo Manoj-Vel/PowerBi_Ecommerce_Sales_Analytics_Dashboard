@@ -37,21 +37,17 @@ Map Visual: Sales by Region
 Trend Analysis (YoY) in KPI
 
 # 📈 Business Insights
-
 YoY Profit increased by 4.5%, indicating operational improvements.
 However, YoY Sales decreased by 0.83%, an early warning sign—sales trends should be monitored to prevent future revenue decline.
 
 Segment Analysis:
-
 Consumer and Home Office segments show an increase in YoY profit margin.
 Corporate segment shows a decline of 2.31% in profit margin.
 
 👉 Focus: Improving performance in the Corporate segment.
 
 Regional Analysis:
-
 The West region leads with 32% of total sales.
-
 Opportunity identified to strengthen presence and sales in the South region.
 
 📂 Repository Contents
